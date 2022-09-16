@@ -7,7 +7,7 @@
         "start": "gulp"
     },
     "dependencies": {
-        "bootstrap": "^3.3.7",
+        "bootstrap": "^3.4.1",
         "classnames": "^2.3.1",
         "lodash": "^4.17.21",
         "mock-xmlhttprequest": "^1.1.0",
